@@ -14,3 +14,9 @@ change configuration nginx (reverse proxy, whatever you want)
 
 access subdomain as localhost (alternative)
 - lvh.me:port
+
+### how to access subsite
+- access subsite www -> localhost
+- access subsite kbank -> kbank.localhost
+- access subsite tasco -> tasco.localhost
+- access subsite lando -> lando.localhost
